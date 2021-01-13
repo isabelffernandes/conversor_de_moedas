@@ -24,12 +24,9 @@
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="tela1" src="https://user-images.githubusercontent.com/64866875/104365069-4ae2d600-54f6-11eb-95ec-ee12c0bac6c4.png" width="50%"></p> 
-
+  <img alt="tela1" src="https://user-images.githubusercontent.com/64866875/104451041-c2a91300-557f-11eb-928e-dcdf9d91416b.png" width="50%"></p> 
   <br>
-<p align="center">
-  <img alt="tela2" src="https://user-images.githubusercontent.com/64866875/104365065-49191280-54f6-11eb-8a33-e0bb14abcb84.png" width="50%"></p>
-  
+
 ## Project
 
 App created for Currency Converter using:
